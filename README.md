@@ -1,6 +1,6 @@
-# react-routing-example
+# next-routing-example
 
-This example demonstrates how to create and use a simple routing system in React js
+This example demonstrates how to create and use a minimal blog in React js / Next js
 
 # Install
 
